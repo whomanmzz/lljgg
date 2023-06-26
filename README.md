@@ -1,4 +1,4 @@
-<h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
+<h2><span style="font-size: medium;">Dafine - HTML E-commerce Online Shop</span></h2>
 <table class="post-table">
 <thead>
 <tr>
@@ -26,7 +26,7 @@
 <tbody>
 <tr>
 <td>Mixed Columns</td>
-<td>Green, Yellow</td>
+<td>Gold light Brown White</td>
 <td>Chrome, Firefox, MS Edge, etc.</td>
 </tr>
 </tbody>
@@ -34,7 +34,7 @@
 <p style="text-align: left;">This is an online shop website template it is a multipurpose non-responsive website template that can cover the basic online shop requirement.</p>
 <p style="text-align: left;">The website template is built on HTML5 CSS3 and Javascript / JQuery.</p>
 <p style="text-align: left;">It has used external plugins library like jquery UI, fancybox for viewing product images on a detail page, and bxslider to slide products on the home page.</p>
-<p style="text-align: left;">Also, it has used free stock images, icons, and google Roboto font.</p>
+<p style="text-align: left;">Also, it has used free stock images, icons, and Vazir font.</p>
 <p style="text-align: left;">Beautiful flat style HTML5 website template with clean code to edit easily well-commented sections.</p>
 <p><strong>Credit &amp; Miscellaneous Info</strong></p>
 <ul>
@@ -47,7 +47,7 @@
  	<li>CSS styling file(s)</li>
  	<li>JavaScript file(s)</li>
  	<li>Free Stock images PNG, JPG</li>
- 	<li>FONTS files (Roboto font)</li>
+ 	<li>FONTS files (Vazir font)</li>
  	<li>FancyBox file(s)</li>
 </ul>
 <p><strong>Page layout includes:</strong></p>
@@ -56,7 +56,7 @@
  	<li>FancyBox for displaying single products images</li>
  	<li>Contact Form, Checkout Form, Account Form etc.</li>
 </ul>
-<p style="text-align: left;"><b>Khaki Online Shop HTML5 Website Template Pages Included</b></p>
+<p style="text-align: left;"><b>Dafine Online Shop HTML5 Website Template Pages Included</b></p>
 <ul>
  	<li>index page</li>
  	<li>shop page</li>
@@ -71,11 +71,4 @@
  	<li>orders page</li>
  	<li>change password page</li>
 </ul>
-<p style="text-align: left;"><b>Admin Folder Included as well</b></p>
-<ul style="text-align: left;">
- 	<li>index page</li>
- 	<li>category page</li>
- 	<li>order page</li>
- 	<li>product page</li>
- 	<li>stock page</li>
-</ul>
+
